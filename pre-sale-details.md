@@ -6,7 +6,7 @@
 
 | **Key Information**           | **Details**                                      |
 | ----------------------------- | ------------------------------------------------ |
-| Pre-Sale Start Date           | Monday, March 1st, 2024                          |
+| Pre-Sale Start Date           | Monday, April 1st, 2024                          |
 | Launch Date                   | Immediately after the pre-sale goal is reached   |
 | **Fundraising Goal**          | 12 ETH (\~$40,000)                               |
 | **ETH to AUTO Conversion**    | 1 ETH = 33,333,300,000 AUTO                      |
